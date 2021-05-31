@@ -1,5 +1,2 @@
-### 👋 Hi, I’m Feew
+###  Hi 👋
 
-- Coding 👨‍💻
-- Soldering 🔧
-- 3D Printing 🤓
